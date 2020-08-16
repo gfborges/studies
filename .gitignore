@@ -1,0 +1,22 @@
+# C
+*.out
+*.exe
+*
+
+# executables
+*
+!*.*
+!/**/
+
+# Python
+**/__pycache__
+*.pyo
+*.pyc
+*/__
+*$py.class
+*.so
+
+# Java
+*.class
+*.jar
+*.war
